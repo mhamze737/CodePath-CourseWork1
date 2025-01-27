@@ -23,6 +23,8 @@ The following **required** functionality is completed:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4a2e0259fcf5446c8945b50472456261-15fe7b7b61537850-full-play.gif">
     </a>
   </div>
+
+  
 ## App Brainstorming (Step 4)
 YouTube
 Well-organized UI: It is very well-structured; videos can be categorized as recommended, trending, etc.
