@@ -4,15 +4,25 @@ Submitted by: **Hamze Moktar**
 
 **Name of your app** is an app that... [PersonaFlow ] 
 
-Time spent: **30minutes** hours spent in total
+Time spent: ** 30minutes ** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+
  
+## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/4a2e0259fcf5446c8945b50472456261">
+      <p>Simulator - iPhone 16 Pro Max - 26 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/4a2e0259fcf5446c8945b50472456261">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4a2e0259fcf5446c8945b50472456261-15fe7b7b61537850-full-play.gif">
+    </a>
+  </div>
 ## App Brainstorming (Step 4)
 YouTube
 Well-organized UI: It is very well-structured; videos can be categorized as recommended, trending, etc.
